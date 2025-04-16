@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gourav Mehta
 - 
-- 👀 I’m interested in Python
+- 👀 I’m interested in Data Analysis
 - 
-- 🌱 I’m currently Pursuing MCA
+- 🌱 I’m currently pursuing MCA
 
 
